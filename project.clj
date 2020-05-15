@@ -13,6 +13,7 @@
                  [clj-http "3.10.1"]
                  [medley "1.3.0"]
                  [cheshire "5.9.0"]
-                 [camel-snake-kebab "0.4.0"]]
+                 [camel-snake-kebab "0.4.0"]
+                 [org.clojure/core.async "1.2.603"]]
 
   :repl-options {:init-ns clojure-training.core})
